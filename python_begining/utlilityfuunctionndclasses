@@ -1,0 +1,6 @@
+print()==>Display message in console
+input()==>Read value from console
+*type()==>Return data type of object
+range()==> Range of values (START,END,STEP) give sequence of values from start to end-1
+
+
